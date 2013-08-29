@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\openurldialog.o
+./release\painter.o
+./release\player.o
+./release\PublicFunction.o
+./release\moc_mainwindow.o
+./release\moc_openurldialog.o
+./release\moc_painter.o
+./release\moc_player.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\openurldialog.o
+./debug\painter.o
+./debug\player.o
+./debug\PublicFunction.o
+./debug\moc_mainwindow.o
+./debug\moc_openurldialog.o
+./debug\moc_painter.o
+./debug\moc_player.o
+);
