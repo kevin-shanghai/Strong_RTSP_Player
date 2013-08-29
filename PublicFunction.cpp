@@ -9,11 +9,11 @@ void sleep(unsigned int msec)
 void startScreen(QSplashScreen *splash)
 {
     //QSplashScreen *splash = new QSplashScreen;
-    splash->setPixmap(QPixmap("D:\\Programing\\Practice\\Qt\\Player\\player\\images\\logo_covidien_1.jpg"));
+    splash->setPixmap(QPixmap("D:\\Programing\\Practice\\Qt\\Player\\player\\images\\VLC.jpg"));
     splash->show();
     Qt::Alignment center = Qt::AlignCenter | Qt::AlignTop;
     Qt::Alignment topright = Qt::AlignRight | Qt::AlignTop;
-    splash->showMessage(QObject::tr("Welcome to use covidien's RTSP streaming player......"), center, Qt::red);
+    splash->showMessage(QObject::tr("Welcome to use kevin's RTSP streaming player......"), center, Qt::red);
     sleep(2000);
     splash->showMessage(QObject::tr("程序正在启动中,请稍等......"), center, Qt::red);
     sleep(2000);
