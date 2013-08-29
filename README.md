@@ -2,13 +2,9 @@
 ####Email: kevinfu1985@gmail.com
 ####Date:  2013.8.29
 
-The project Strong_RTSP_Player is mainly a RTSP Player which implemented with QT+libvlc
-============================================
+##The project Strong_RTSP_Player is mainly a RTSP Player which implemented with QT+libvlc
 
-### all we known, VLC media player is a greate open source multimedia player which support almost all types of video. And libvlc is the core library of VLC, you can rewrite you own player by libvlc, it's very simple. I want to thank the open source orgnization "Video Lan" which make such a greate open source project. The follow picture is the main window of the RTSP player, you can click the menu "OpenURL" to input your rtsp URL which you want to streaming.
-
-It's my greate hourner you can distribute or reuse part of this  progrme without for buiness. if you have any problem about this programe, please let me know!
-=
+### all we known, VLC media player is a greate open source multimedia player which support almost all video types. And libvlc is the core library of VLC, you can rewrite your own player by libvlc, it's very simple. I want to thank the open source orgnization "Video Lan" which makes such a greate open source project. The follow picture is the main window of the RTSP player, you can click the menu "OpenURL" to input your rtsp URL which you want to streaming.
 
 ![Alt text](/images/mainwindow.jpg)
 
@@ -17,3 +13,5 @@ It's my greate hourner you can distribute or reuse part of this  progrme without
 ========================================================
 ###The player.h and player.cpp is the core implementation about the RTSP player, so keep in mind these two files, after that you will be clear about the detail of this project.
 ![Alt text](/images/project.jpg)
+
+##It's my greate honour you can distribute or reuse part of this  progrme without for buiness. if you have any problem about this programe, please let me know!
